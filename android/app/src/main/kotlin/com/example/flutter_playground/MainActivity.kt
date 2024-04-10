@@ -104,4 +104,5 @@ class MainActivity: FlutterActivity()
   // that it has a State object (defined below) that contains fields that affect
   // how it looks.
   
-  
+    // that it has a State object (defined below) that contains fields that affect
+  // how it looks.
