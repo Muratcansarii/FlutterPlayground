@@ -1,2 +1,2 @@
-# flutter_playground
+# FlutterPlayground
 
